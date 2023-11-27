@@ -10,3 +10,9 @@ List of tools for development
 * [SVG Share Generator](https://www.softr.io/tools/svg-shape-generator)
 * [SVG Wave Generator](https://www.softr.io/tools/svg-wave-generator)
 * [Haikei](https://app.haikei.app/)
+
+## Illustration packs
+
+* [OpenDoodles](https://generator.opendoodles.com/)
+* [Illustrations co.](https://illlustrations.co/)
+* [DrawKit](https://www.drawkit.com/)
