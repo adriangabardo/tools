@@ -17,3 +17,8 @@ List of tools for development
 * [Illustrations co.](https://illlustrations.co/)
 * [DrawKit](https://www.drawkit.com/)
 * [Humaaans](https://www.humaaans.com/)
+
+## React State Management
+
+* [Zustand](https://github.com/pmndrs/zustand)
+* [Jotai](https://jotai.org/)
